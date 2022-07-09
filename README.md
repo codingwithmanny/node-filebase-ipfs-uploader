@@ -1,6 +1,6 @@
 # Node Filebase IPFS Uploader
 
-This repository for the tutorial on how to [Create A Backend NodeJS IPFS File Uploader With Filebase]().
+This repository for the tutorial on how to [Create A Backend NodeJS IPFS File Uploader With Filebase](https://ankr.hashnode.dev/create-a-backend-nodejs-ipfs-file-uploader-with-filebase).
 If you got value from it, please retweet it out on twitter and follow me at [@codingwithmanny](https://twitter.com/codingwithmanny).
 
 ---
